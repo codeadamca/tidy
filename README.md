@@ -2,6 +2,10 @@
 
 A list of programming guidelines to follow for all BrickMMO related development. 
 
+## Database Conventions
+
+All database naming conventions follow [Laravel Eloquent](https://laravel.com/docs/10.x/eloquent) conventions.
+
 ***
 
 ## Repository Resources
