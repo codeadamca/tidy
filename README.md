@@ -18,7 +18,7 @@ All BrickMMO repo names start with `brickmmo-`, are lowercase, and snake case.
 
 ***
 
-## Repository Resources
+## Repo Resources
 
 * [BrickMMO](https://www.brickmmo.com/)
 * [BrickMMO Programming Guidelines](https://programming.brickmmo.com/)
