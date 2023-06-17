@@ -16,13 +16,14 @@ All GitHub repos should be created in this account and the following process use
 
 All BrickMMO repo names start with `brickmmo-`, are lowercase, and snake case. 
 
-***
+---
 
 ## Repo Resources
 
-* [BrickMMO](https://www.brickmmo.com/)
-* [BrickMMO Programming Guidelines](https://programming.brickmmo.com/)
+- [Tidy](https://tidy.codeadam.ca)
+- [Laravel Eloquent](https://laravel.com/docs/10.x/eloquent)
 
-<a href="https://brickmmo.com">
-<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="300">
+<a href="https://codeadam.ca">
+<img src="https://codeadam.ca/images/code-block.png" width="100">
 </a>
+
