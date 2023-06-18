@@ -16,7 +16,8 @@ All GitHub repos should be created in this account and the following process use
 
 All BrickMMO repo names start with `brickmmo-`, are lowercase, and snake case. 
 
-> This repo is available to view at [https://tidy.codeadam.ca](https://tidy.codeadam.ca).
+> This repo is available to view at  
+> [https://tidy.codeadam.ca](https://tidy.codeadam.ca).
 
 ---
 
