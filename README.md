@@ -1,6 +1,6 @@
 # tidy
 
-A set of programming guidelines to follow when contributing to BrickMMO related projects.
+A set of programming guidelines to follow.
 
 > This repo is available to view at  
 > [https://tidy.codeadam.ca](https://tidy.codeadam.ca)
