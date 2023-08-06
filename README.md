@@ -2,6 +2,9 @@
 
 A set of programming guidelines to follow.
 
+> **Note**  
+> All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
+
 > This repo is available to view at  
 > [https://tidy.codeadam.ca](https://tidy.codeadam.ca)
 
