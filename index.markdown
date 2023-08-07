@@ -1,5 +1,6 @@
-
 # tidy
+
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
 
 A list of programming guidelines to follow for all BrickMMO related development.
 
