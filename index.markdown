@@ -35,20 +35,9 @@ All GitHub repos should be created within the [BrickMMO GitHub Organization](htt
       // Code to executete
     }
     ```
-
-
-
-
-
+    
 > This repo is available to view at  
 > [https://tidy.codeadam.ca](https://tidy.codeadam.ca).
-
----
-
-## Repo Resources
-
-- [Tidy](https://tidy.codeadam.ca)
-- [Laravel Eloquent](https://laravel.com/docs/10.x/eloquent)
 
 ---
 
