@@ -50,7 +50,8 @@ All GitHub repos should be created within the [BrickMMO GitHub Organization](htt
 - [Tidy](https://tidy.codeadam.ca)
 - [Laravel Eloquent](https://laravel.com/docs/10.x/eloquent)
 
-<a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="100">
-</a>
+---
 
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
