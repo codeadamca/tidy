@@ -18,19 +18,19 @@ All GitHub repos should be created within the [BrickMMO GitHub Organization](htt
 
 ## Coding Guidelines
 
-1. Parentheses are placed opm their own lines:
+1. Parentheses are placed om their own lines:
 
     ```php
-    if($vaue == true)
+    if ($vaue == true) 
     {
       // Code to executete
     }
     ```
 
-2. Brackets following an if statement, loop, etc... are placed directly after, without a space:
+2. Brackets following an if statement, loop, etc... have a space between the constructor and condition:
 
     ```javascript
-    for(let i = 0; i < 3; i ++)
+    for (let i = 0; i < 3; i ++)
     {
       // Code to executete
     }
