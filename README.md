@@ -6,7 +6,7 @@ A set of programming guidelines to follow.
 > All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
 
 > This repo is available to view at  
-> [https://tidy.codeadam.ca](https://tidy.brickmmo.com)
+> [https://tidy.codeadam.ca](https://tidy.codeadam.ca)
 
 ---
 
@@ -20,7 +20,7 @@ This project uses only [Markdown](https://www.markdownguide.org/) and is hosted 
 
 ## Repo Resources
 
-- [tidy](https://tidy.brickmmo.com)
+- [tidy](https://tidy.codeadam.ca)
 - [GitHub - About READEME.md files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - [Markdown](https://www.markdownguide.org/)
 
