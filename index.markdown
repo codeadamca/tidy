@@ -6,7 +6,7 @@ A list of programming guidelines to follow for all BrickMMO related development.
 
 ## Database Conventions
 
-All database naming conventions follow [Laravel Eloquent](https://laravel.com/docs/10.x/eloquent) conventions aong with [eplus](https://eplus.codeadam.ca/). It is recommended to use the Laravel migration process for creation and upkeep of BrickMMO databases.
+All database naming conventions follow [Laravel Eloquent](https://laravel.com/docs/10.x/eloquent) conventions along with [eplus](https://eplus.codeadam.ca/). It is recommended to use the Laravel migration process for creation and upkeep of BrickMMO databases.
 
 ## GitHub Repos
 
@@ -21,9 +21,9 @@ All GitHub repos should be created within the [BrickMMO GitHub Organization](htt
 1. Parentheses are placed om their own lines:
 
     ```php
-    if ($vaue == true) 
+    if ($value == true) 
     {
-      // Code to executete
+      // Code to execute
     }
     ```
 
@@ -32,7 +32,7 @@ All GitHub repos should be created within the [BrickMMO GitHub Organization](htt
     ```javascript
     for (let i = 0; i < 3; i ++)
     {
-      // Code to executete
+      // Code to execute
     }
     ```
     
