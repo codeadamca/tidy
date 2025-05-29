@@ -39,8 +39,11 @@ All GitHub repos should be created within the [BrickMMO GitHub Organization](htt
 > This repo is available to view at  
 > [https://tidy.codeadam.ca](https://tidy.codeadam.ca).
 
+<div class="components" id="resources">--resources--</div>
+<script src="https://cdn.codeadam.ca/components@1.0.0/components.js"></script>
+
 ---
 
-<a href="https://brickmmo.com">
-<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+<a href="https://codeadam.ca">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="100">
 </a>
